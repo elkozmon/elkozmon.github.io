@@ -1,6 +1,6 @@
 # main text of home
 name: Ľuboš Kozmon
-bio: Just a passionate software engineer :)
+bio: Wanderer, also a passionate software engineer
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ email: hello@elkozmon.com
 authors:
   luboskozmon:
     name: Ľuboš Kozmon
-    bio: Just a passionate software engineer :)
+    bio: Wanderer, also a passionate software engineer
     external-image: false
     picture: assets/images/profile.jpg
     # twitter: johndoe
